@@ -16,13 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saurabh-kumar-8b346a254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar solanki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20809004/saurabh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saurabh-kumar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saurabhpandey951/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhpandey951" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/saurabhkumarp534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saurabhkumarp534" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tower_aura_62" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="tower_aura62" height="30" width="40" /></a>
-<a href=" https://x.com/Saurabh09734552"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1819120589.1728518400&semt=ais_hybrid-rr-similar" alt="Saurabh09734552" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/suraj-kumar-6b6973253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar solanki" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20667655/suraj0834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saurabh-kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suraj_kumar0834/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhpandey951" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/suraj6202k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saurabhkumarp534" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
